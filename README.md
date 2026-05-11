@@ -1,4 +1,4 @@
-# Lab 2 — SecureStorageLabJava (Persistance locale sécurisée Android)
+# Lab  — SecureStorageLabJava (Persistance locale sécurisée Android)
 
 ## Objectif
 
